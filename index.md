@@ -1,37 +1,106 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="pt-br">
 
-You can use the [editor on GitHub](https://github.com/viniciusramon/Curso-em-Video/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cordel Moderno</title>
+    <link rel="stylesheet" href="estilo/style.css">
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+    <header>
+        <h1>Cordel Moderno</h1>
+        <p>Por <a href="https://www.recantodasletras.com.br/poesias/3186743" target="_blank">Milton Duarte</a></p>
+    </header>
 
-### Markdown
+    <section class="normal">
+        <p>
+            Estou ficando cansado <br>
+            Da tal tecnologia <br>
+            Só se fala por e-mail <br>
+            Mensagem curta e fria <br>
+            Twitter e Facebook <br>
+            Antes que eu caduque <br>
+            Vou dizer tudo em poesia.
+        </p>
+    </section>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <section class="imagem">
+        <p>
+            Não é mais como era antes <br>
+            É tudo abreviado <br>
+            "Você" só tem duas letras <br>
+            O "O" e o "E" foi riscado <br>
+            Para declarar o amor <br>
+            Basta botar uma flor <br>
+            E um coração desenhado.
+        </p>
+    </section>
 
-```markdown
-Syntax highlighted code block
+    <section class="normal">
+        <p>
+            Arroba agora não pesa <br>
+            É parte de um endereço <br>
+            Ponto final nem se usa <br>
+            Ou vai até no começo <br>
+            Agora é .com <br>
+            Se o saite é muito bom <br>
+            Ele vale um alto preço.
+        </p>
 
-# Header 1
-## Header 2
-### Header 3
+        <p>
+            Pra piorar a liguagem <br>
+            O emoticom é um risco <br>
+            Tem símbolo para tudo <br>
+            Ponto e vírgula e um asterisco <br>
+            Um beijo significa <br>
+            Pra entender como fica <br>
+            Decifre esse rabisco.
+        </p>
+    </section>
 
-- Bulleted
-- List
+    <section class="imagem">
+        <p>
+            Tenho saudade das cartas <br>
+            Escritas com a própria mão <br>
+            Mandava no mês de Junho <br>
+            Só chegava no Verão <br>
+            Mas matava a saudade <br>
+            Era texto de verdade <br>
+            Nas linhas do coração.
+        </p>
+    </section>
 
-1. Numbered
-2. List
+    <section class="normal">
+        <p>
+            Agora, escrevo e envio <br>
+            Chegando na mesma hora <br>
+            Mas quando vou prosear <br>
+            A pessoa foi embora <br>
+            Abriu outro aplicativo <br>
+            O mundo ficou cativo <br>
+            Da tecnologia do agora.
+        </p>
 
-**Bold** and _Italic_ and `Code` text
+        <p>
+            Felizmente, pra orar <br>
+            Não precisa de internet <br>
+            Deus escuta todo mundo <br>
+            Se quiser, faça esse teste <br>
+            Dois pontos são dois joelhos <br>
+            Seus lábios são aparelhos <br>
+            Deixe que Deus interprete.
+        </p>
+    </section>
 
-[Link](url) and ![Image](src)
-```
+    <footer>
+        <p>Site criado por <a href="https://viniciusramon.github.io/CursoEmVideoAulas/" target="_blank">Vinicius
+                Ramon</a> para a aula do <a href="https://www.cursoemvideo.com" target="_blank">Curso em Video</a>
+            ministrada
+            por <a href="https://gustavoguanabara.github.io" target="_blank">Gustavo Guanabara</a></p>
+    </footer>
+</body>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/viniciusramon/Curso-em-Video/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
