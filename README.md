@@ -1,149 +1,106 @@
-# projeto-android
-Projeto Android Curso em Video
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Como surgiu o mascote do Android?</title>
-    <link rel="shortcut icon" href="imagens/favicon.ico" type="image/x-icon">
+    <title>Cordel Moderno</title>
     <link rel="stylesheet" href="estilo/style.css">
 </head>
+
 <body>
     <header>
-        <h1>Curiosidades de Tecnologia</h1>
-        <p>Tudo aquilo que você sempre quis saber sobre o mundo Tech, em um único lugar</p>
+        <h1>Cordel Moderno</h1>
+        <p>Por <a href="https://www.recantodasletras.com.br/poesias/3186743" target="_blank">Milton Duarte</a></p>
     </header>
-    <nav>
-        <a href="#">Home</a>
-        <a href="#">Notícias</a>
-        <a href="#">Contato</a>
-    </nav>
-    <main>
-        <article>
-            <h1>
-                História do Mascote do Android
-            </h1>
 
-            <p>
-                Provavelmente você sabe que o sistema operacional <strong>Android</strong>, mantido pelo <strong>Google</strong> é um dos mais utilizados para dispositivos móveis em todo o mundo. Mas tavez você não saiba que o seu simpático mascote tem um nome e uma história muito curiosa? Pois acompanhe esse artigo para aprender muita coisa sobre esse robozinho.
-            </p>
+    <section class="normal">
+        <p>
+            Estou ficando cansado <br>
+            Da tal tecnologia <br>
+            Só se fala por e-mail <br>
+            Mensagem curta e fria <br>
+            Twitter e Facebook <br>
+            Antes que eu caduque <br>
+            Vou dizer tudo em poesia.
+        </p>
+    </section>
 
-            <h2>
-                A primeira versão
-            </h2>
+    <section class="imagem" id="img01">
+        <p>
+            Não é mais como era antes <br>
+            É tudo abreviado <br>
+            "Você" só tem duas letras <br>
+            O "O" e o "E" foi riscado <br>
+            Para declarar o amor <br>
+            Basta botar uma flor <br>
+            E um coração desenhado.
+        </p>
+    </section>
 
-            <p>
-                A primeira tentativa de criar um mascote surgiu em 2007 e veio de um desenvolvedor chamado <a href="https://androidcommunity.com/dan-morrill-shows-us-the-android-mascot-that-almost-was-20130103/" target="_blank" class="externo">Dan Morrill</a>. Ele conta que abriu o <a href="https://inkscape.org/pt-br/" target="_blank" class="externo">Inkscape</a> (software livre para vetorização de imagens) e criou sua própria versão de robô. O objetivo era apenas personificar o sistema apenas para a a sua equipe, não existia nenhuma solicitação da empresa para a criação de um mascote.
-            </p>
+    <section class="normal">
+        <p>
+            Arroba agora não pesa <br>
+            É parte de um endereço <br>
+            Ponto final nem se usa <br>
+            Ou vai até no começo <br>
+            Agora é .com <br>
+            Se o saite é muito bom <br>
+            Ele vale um alto preço.
+        </p>
 
-            <picture>
-                <source media="(max-width: 670px)" srcset="imagens/dan-droids-pq.png">
-                <img src="imagens/dan-droids.png" alt="Primeiro mascote do Android">
-            </picture>
+        <p>
+            Pra piorar a liguagem <br>
+            O emoticom é um risco <br>
+            Tem símbolo para tudo <br>
+            Ponto e vírgula e um asterisco <br>
+            Um beijo significa <br>
+            Pra entender como fica <br>
+            Decifre esse rabisco.
+        </p>
+    </section>
 
-            <p>
-                Essa primeira versão bizarra até foi batizada em homenagem ao seu criador: seriam os <strong>Dandroids</strong>.
-            </p>
+    <section class="imagem" id="img02">
+        <p>
+            Tenho saudade das cartas <br>
+            Escritas com a própria mão <br>
+            Mandava no mês de Junho <br>
+            Só chegava no Verão <br>
+            Mas matava a saudade <br>
+            Era texto de verdade <br>
+            Nas linhas do coração.
+        </p>
+    </section>
 
-            <h2>
-                Surge um novo mascote
-            </h2>
+    <section class="normal">
+        <p>
+            Agora, escrevo e envio <br>
+            Chegando na mesma hora <br>
+            Mas quando vou prosear <br>
+            A pessoa foi embora <br>
+            Abriu outro aplicativo <br>
+            O mundo ficou cativo <br>
+            Da tecnologia do agora.
+        </p>
 
-            <p>
-                A ideia de ter um mascote foi amadurecendo e a missão foi passada para uma profissional da área. A ilustradora Russa <a href="https://www.irinablok.com/android" target="_blank" class="externo">Irina Blok</a>, também funcionária do Google, ficou com a missão de representar o pequeno robô de uma maneira mais agradável.
-            </p>
+        <p>
+            Felizmente, pra orar <br>
+            Não precisa de internet <br>
+            Deus escuta todo mundo <br>
+            Se quiser, faça esse teste <br>
+            Dois pontos são dois joelhos <br>
+            Seus lábios são aparelhos <br>
+            Deixe que Deus interprete.
+        </p>
+    </section>
 
-            <picture>
-                <source media="(max-width: 670px)" srcset="imagens/irina-blok-pq.jpg">
-                <img src="imagens/irina-blok.jpg" alt="Irina Blok, criadora do Bugdroid">
-            </picture>
-
-            <p>
-                A ideia principal da Irina era representar tudo graficamente com poucos traços e de forma mais chapada. O desenho também deveria gerar identificação rápida com quem o olha. Surgiu então o <strong>Bugdroid</strong>, o novo mascote do Android.
-            </p>
-
-            <img src="imagens/bugdroid.png" class="pequena" alt="Bugdroid">
-
-            <p>
-                A principal inspiração para os traços do novo <strong>Bugdroid</strong> veio daqueles bonequinhos que ilustram portas de banheiro para indicar o gênero de cada porta. Conta a lenda que a artista estava criando em sua mesa no escritório do <strong>Google</strong> e olhou para o lado dos banheiros e a identificação foi imediata: simples, limpo, objetivo.
-            </p>
-
-            <div class="video">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/l2UDgpLz20M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-            
-            <aside>
-                <h3>
-                    Quer aprender mais?
-                </h3> 
-    
-                <p>
-                    Outro assunto curioso em relação ao Android é que cada versão sempre foi nomeada em homenagem a um doce, em ordem alfabética a partir da versão 1.5 até a 9.0.
-                </p>
-    
-                <ul>
-                    <li>
-                        1.5 - <abbr title="Bolo de Copo">Cupcake</abbr>
-                    </li>
-                    <li>
-                        1.6 - <abbr title="Rosquinha">Donut</abbr>
-                    </li>
-                    <li>
-                        3.0 - <abbr title="Bomba">Eclair</abbr>
-                    </li>
-                    <li>
-                        2.2 - <abbr title="Iogurte Congelado">Froyo</abbr>
-                    </li>
-                    <li>
-                        2.3 - <abbr title="Biscoito de Gengibre">Gingerbread</abbr>
-                    </li>
-                    <li>
-                        3.0 - <abbr title="Favo de Mel">Honeycomb</abbr>
-                    </li>
-                    <li>
-                        4.0 - <abbr title="Saunduíche de Sorvete">Ice Cream Sandwich</abbr>
-                    </li>
-                    <li>
-                        4.1 - <abbr title="Jujuba">Jelly Bean</abbr>
-                    </li>
-                    <li>
-                        4.4 - <abbr title="KitKat">KitKat</abbr>
-                    </li>
-                    <li>
-                        5.0 - <abbr title="Pirulito">Lolipop</abbr>
-                    </li>
-                    <li>
-                        6.0 - <abbr title="Marshmallow">Marshmallow</abbr>
-                    </li>
-                    <li>
-                        7.0 - <abbr title="Torrone">Nougat</abbr>
-                    </li>
-                    <li>
-                        8.0 - <abbr title="Oreo">Oreo</abbr>
-                    </li>
-                    <li>
-                        9.0 - <abbr title="Torta">Pie</abbr>
-                    </li>
-                </ul>
-    
-                <p>
-                    Infelizmente, o <strong>Android Q</strong> não existiu, pois o Google resolveu pôr fim a essa divertida prática e começou a usar numerações, o que deu origem ao <strong>Android 10</strong>.
-                </p>
-    
-                <p>
-                    Acesse aqui o site <a href="https://www.android.com/intl/en_uk/history/#/donut" target="_blank" class="externo">Android History</a> para conhecer a sequência das versões "adocicadas" e o que cada uma trouxe para o sistema Android.
-                </p>
-            </aside>
-            
-
-            <p>
-                Então é isso! Espero que você tenha gostado do nosso artigo com essa curiosidade sobre o sistema <strong>Android</strong> e seu simpático mascote.
-            </p>
-        </article>
-    </main>
     <footer>
-        <p>Site criado por <a href="https://gustavoguanabara.github.io/" target="_blank">Gustavo Guanabara</a> para o <a href="https://www.youtube.com/cursoemvideo" target="_blank">CursoemVideo</a></p>
+        <p>Site criado por <a href="https://viniciusramon.github.io/CursoEmVideoAulas/" target="_blank">Vinicius
+                Ramon</a> para a aula do <a href="https://www.cursoemvideo.com" target="_blank">Curso em Video</a>
+            ministrada
+            por <a href="https://gustavoguanabara.github.io" target="_blank">Gustavo Guanabara</a></p>
     </footer>
 </body>
+
 </html>
